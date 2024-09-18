@@ -1,0 +1,33 @@
+{
+  "products": [
+    {
+      "name": "Mouse",
+      "sources": [
+        "https://www.mercadolibre.com.ar/mouse-gamer-de-juego-inalambrico-logitech-gserie-g-lightspeed-g305-verde/p/MLA19524126",
+        "https://fullh4rd.com.ar/prod/21334/mouse-logitech-g305-lightspeed-wireless-white-910-005290",
+        "https://shoppingnetarg.mercadoshops.com.ar/logitech-g-series-mouse-gamer-inalambrico-lightspeed-g305-color-negro/p/MLA24000885"
+      ]
+    },
+    {
+      "name": "Teclado",
+      "sources": [
+        "https://fullh4rd.com.ar/prod/9491/teclado-logitech-g213-prodigy-gaming-920-008086-espanol",
+        "https://www.mercadolibre.com.ar/teclado-gamer-prodigy-g213-logitech-serie-g-color-del-teclado-negro-idioma-ingles-us/p/MLA8906508",
+        "https://www.shop.4krc.com.ar/MLA-878328486-teclado-gamer-mecanico-logitech-g213-prodigy-rgb-pro-esport-_JM"
+      ]
+    },
+    {
+      "name": "Auriculares",
+      "sources": [
+        "https://fullh4rd.com.ar/prod/14676/auriculares-corsair-gamer-void-rgb-elite-wireless-carbon",
+        "https://www.mercadolibre.com.ar/auriculares-gamer-inalambricos-corsair-void-rgb-elite-wireless-carbon-con-luz-led/p/MLA15393127",
+        "https://www.gamingcity.com.ar/MLA-857356547-auricular-corsair-headset-wireless-void-elite-rgb-71-negro-_JM"
+      ]
+    }
+  ],
+  "price_thresholds": {
+    "Mouse": 100.0,
+    "Teclado": 150.0,
+    "Auriculares": 200.0
+  }
+}

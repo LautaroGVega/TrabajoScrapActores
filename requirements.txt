@@ -1,0 +1,5 @@
+Pykka==2.0.3
+requests==2.31.0      # Para realizar solicitudes HTTP a las fuentes de precios
+beautifulsoup4==4.12.2 # Para parsear HTML si es necesario
+matplotlib==3.7.1     # Para visualización de gráficos
+plotly==5.11.0        # Para gráficos interactivos opcionales

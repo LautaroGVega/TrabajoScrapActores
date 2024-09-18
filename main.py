@@ -13,7 +13,7 @@ parser.add_argument('--mode', choices=['server', 'client'], required=True, help=
 args = parser.parse_args()
 
 # Dirección y puerto del servidor
-SERVER_IP = '192.168.0.131'
+SERVER_IP = ''
 SERVER_PORT = 65432
 
 def run_server():

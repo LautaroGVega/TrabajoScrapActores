@@ -28,7 +28,7 @@ def plot_price_history(file_path):
             plt.plot(source_data['datetime'], source_data['price'], label=f'{product} - {source_label}')
     
     # Configurar el formato del eje Y para evitar notación científica y mantener escala logarítmica para mejor visualización
-    plt.gca().yaxis.set_major_formatter(FuncFormatter(lambda y, _: '{:,.2f}'.format(y)))  # Formato con decimales
+    plt.gca().yaxis.set_major_formatter(FuncFormatter(lambda y, _: '{:,.2f}'.format(y)))  # Formato en decimales
 
     plt.title('Historial de precios de productos')
     plt.xlabel('Fecha y hora')
